@@ -7,10 +7,10 @@ A full-stack application that enables users to book workspace rooms by the hour 
 
 ## 🚀 Live Deployment
 
-| Layer        | URL                          |
-|--------------|------------------            |
-| Frontend     | 🔗 *(Add after deployment)* |
-| Backend API  | 🔗 *(Add after deployment)* |
+| Layer        | URL                                                          |
+|--------------|------------------                                            |
+| Frontend     | 🔗 https://workspacebooking.vercel.app/                      |
+| Backend API  | 🔗 https://workspace-booking-and-pricing-system.onrender.com |
 
 
 ---
