@@ -53,9 +53,9 @@ Billing uses **30-minute prorated increments**.
 |------------|-----------|
 | Frontend   | React + TypeScript + TailwindCSS |
 | Backend    | Node.js + Express + TypeScript   |
-| Database   | MongoDB (Atlas or Local)         |
+| Database   | MongoDB (Atlas)                  |
 | Client     | Axios                            |
-| Deployment | Vercel / Netlify + Render        |
+| Deployment | Vercel + Render                  |
 
 ---
 
@@ -88,8 +88,8 @@ cd backend
 npm install
 
 Create .env:
-MONGO_URI=mongodb://localhost:27017/workspaceBooking
-PORT=4000
+MONGO_URL = "mongo_url"
+PORT= "PORT_Number"
 
 Seed sample rooms (optional):
 npm run seed:rooms
