@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# OS Generated files
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite
+
+# Optional IDE files
+.vscode/
+.idea/
